@@ -2,7 +2,7 @@
 An attempt to make a top down old school 2D dungeon crawler, single screen. The basics are working, move player with keypad arrows & diagonals
 
 / Keypad - Colorize
-* Keypad - Centerlines
+'*' Keypad - Centerlines
 -/+ Keypad - OOM
 0 Keypad - Grid 
 . Keypad - Debug
